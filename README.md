@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jahidulcreates/jahidulcreates/main/Linkedin Banner - Jahidul.png" alt="Jahidul | Solution Architect | Shopify Plus Expert | AI Enthusiast" />
+</p>
+
+
+
 # 👋 Hi, I'm Jahidul  
 
 🛠️ **Solution Architect | Shopify Plus Expert | Lead Engineer | Full Stack Developer | AI & ML Enthusiast | Researcher**  
