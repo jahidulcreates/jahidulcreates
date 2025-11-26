@@ -136,7 +136,6 @@ My long-term goal is to pursue advanced research (MS/PhD) in machine learning, N
 ---
 
 # Applied Engineering Profile  
-*(This section integrates your professional Shopify/architect expertise without taking focus away from research.)*
 
 Although my primary direction is academic research in machine learning and NLP, I also work extensively as a Solution Architect and Senior Engineer. My engineering contributions focus on scalable system design, distributed backend architectures, optimization workflows, and high-performance web ecosystems.
 
@@ -154,7 +153,6 @@ This practical experience strengthens my research by grounding it in real-world 
 - Experiment-driven development and performance optimization  
 
 ### Shopify & E-commerce Engineering  
-(*Presented as applied systems engineering rather than freelancing*)  
 - Checkout UI Extensions  
 - Shopify Functions and Custom Discount Logic  
 - Theme App Extensions and Metafield Architectures  
