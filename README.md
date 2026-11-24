@@ -1,4 +1,4 @@
-<!-- <p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/jahidulcreates/jahidulcreates/main/Linkedin Banner - Jahidul.png" alt="Jahidul | Solution Architect | Shopify Plus Expert | AI Enthusiast" />
 </p>
 
@@ -77,11 +77,11 @@ I build **high-converting Shopify and Shopify Plus stores** using Online Store 2
 
 ## 🌐 Connect with Me  
 - Portfolio: [jahidulcreates-portfolio.vercel.app](https://jahidulcreates-portfolio.vercel.app)  
-- LinkedIn: [linkedin.com/in/jahid094](https://linkedin.com/in/jahid094)   -->
+- LinkedIn: [linkedin.com/in/jahid094](https://linkedin.com/in/jahid094) 
 
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/jahidulcreates/jahidulcreates/main/Linkedin%20Banner%20-%20Jahidul.png" alt="Md Jahidul Islam Banner" />
 </p>
 
@@ -199,5 +199,5 @@ I am open to collaboration, academic partnerships, and research discussions.
 
 - GitHub: https://github.com/jahidulcreates  
 - ResearchGate: https://www.researchgate.net/profile/Md-Jahidul-Islam-17  
-- Email: jahid.aust39@gmail.com  
+- Email: jahid.aust39@gmail.com   -->
 
